@@ -14,7 +14,7 @@ To work with this project, you need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/assembly-bash-script.git
-   cd assembly-bash-script
+   git clone (https://github.com/msadikm/bash_asm.git)
+   cd bash_asm
    make
    ./test
