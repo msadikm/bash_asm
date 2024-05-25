@@ -1,4 +1,5 @@
 # bash_asm
+You can use your small small bash, which can run binaries in /bin/
 
 ## Getting Started
 
